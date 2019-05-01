@@ -1,0 +1,40 @@
+/*
+LARANJA: #E65B24
+PRETO: #2C262F
+MOSTARDA: #CFCD6F
+BRANCO: #F9F8F7
+VERDE: #38AF6B
+*/
+@font-face {
+    font-family: berooms;
+    src: url(fonts/Averta\ Extra\ Bold\ Italic.woff);
+}
+body {
+    background-color: #2C262F;
+}
+
+#header {
+    font-family: berooms;
+    color: #E65B24;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 50pt;
+    letter-spacing: 4pt;
+}
+
+#message {
+    font-family: berooms;
+    color: #F9F8F7;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 20pt;
+    letter-spacing: 2pt;
+}
+
+#image {
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
